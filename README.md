@@ -4,7 +4,7 @@
 
 ## Work Experience
 Support Analyst @ Skoda Auto Automotive 
--High Impact project 1
+ -High Impact project 1
 
 ### Projects
 Super Cool Project Title
