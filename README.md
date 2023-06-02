@@ -14,4 +14,4 @@ Support Analyst @ Skoda Auto Automotive
 
 [GITHUB Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-![Obrazek](/assets/img/headshot.jpg)
+![Obrazek](/assets/img/images.jpg)
